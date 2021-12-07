@@ -1,6 +1,6 @@
 ---
 title: Acerca de mi
-subtitle: Esto es un poco de lo que tengo .
+subtitle: Esto es un proyecto.
 img_path: images/about.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
