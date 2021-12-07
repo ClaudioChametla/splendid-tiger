@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hola, soy Claudio Chametla'
-    content: >
-      Soy un ingeniero en computación, con experiencia en el desarrollo web y
-      programación de aplicaciones así como sus nuevas tecnologías.
+    content: |
+      Soy ingeniero en computación y un apasionado al desarrollo web.
   - section_id: about
     type: section_content
     title: ACERCA DE MI
