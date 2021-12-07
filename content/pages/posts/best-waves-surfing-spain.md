@@ -1,5 +1,4 @@
 ---
-title: Best Waves - Surfing In Spain
 subtitle: A intresting tale about Surfing
 date: '2018-01-15'
 thumb_img_alt: Three person about to surf
