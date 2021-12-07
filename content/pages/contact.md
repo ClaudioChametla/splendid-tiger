@@ -24,7 +24,7 @@ sections:
         label: Subjec
         default_value: Please select
         options:
-          - Cita
+          - Cita presencial
           - Sponsorship
           - Other
       - input_type: textarea
