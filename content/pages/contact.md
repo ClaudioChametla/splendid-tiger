@@ -25,7 +25,7 @@ sections:
         default_value: Please select
         options:
           - Cita presencial
-          - Sponsorship
+          - Cita virtual
           - Other
       - input_type: textarea
         name: message
