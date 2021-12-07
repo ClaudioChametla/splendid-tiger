@@ -7,7 +7,7 @@ excerpt: >-
 date: '2019-03-24'
 thumb_img_path: /images/Captura de pantalla de 2021-12-07 14-34-25.png
 thumb_img_alt: Fushimi Inari Shrine in Kyoto
-content_img_path: images/2.jpg
+content_img_path: /images/Captura de pantalla de 2021-12-07 14-34-25.png
 content_img_alt: Fushimi Inari Shrine in Kyoto
 seo:
   title: A Weekend in Japan
