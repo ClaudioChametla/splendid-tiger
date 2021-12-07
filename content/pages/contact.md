@@ -34,6 +34,9 @@ sections:
       - input_type: checkbox
         name: consent
     submit_label: Send Message
+    title: >-
+      Entiendo que este formulario almacena mi información enviada para que
+      puedan ser contactados.
 seo:
   title: Contact
   description: This is the contact page
