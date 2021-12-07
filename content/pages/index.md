@@ -4,13 +4,13 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: "Hi, I'm Stackbit Fresh."
+    title: 'Hi, I''m Stackbit Fresh.'
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
   - section_id: about
     type: section_content
-    title: About
+    title: ACERCA DE MI
     content: >-
       This is the "about" excerpt. It can be used to provide a paragraph about
       yourself that people can read on the homepage to get a sense of who you
