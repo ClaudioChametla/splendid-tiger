@@ -26,7 +26,7 @@ sections:
         options:
           - Cita presencial
           - Cita virtual
-          - Other
+          - Otro
       - input_type: textarea
         name: message
         label: Message
