@@ -16,7 +16,7 @@ sections:
       Bootstrap o Next JS. También soy programador de aplicaciones móviles
       usando especialmente JAVA.
     actions:
-      - label: Contact Me
+      - label: Contactame
         url: /contact
         style: button
   - section_id: recent-posts
