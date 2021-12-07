@@ -1,6 +1,6 @@
 ---
 title: Web Sites en Codepen Responsivos
-subtitle: A cautionary tale about riding
+subtitle: 'Sitios Web responsivos realizados en HTML, CSS y Javascript'
 excerpt: >-
   Son diversos sitios Web Responsivos realizados con HTML, CSS y JAVASCRIPT en
   la plataforma web CodePen cuyos proyectos estan referenciados en la seccion de
