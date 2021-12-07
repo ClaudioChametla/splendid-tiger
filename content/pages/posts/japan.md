@@ -2,7 +2,8 @@
 title: Aplicación móvil de geolocalización de transporte público
 excerpt: >-
   El proyecto es sobre una aplicación movíl para geolocalización de unidades de
-  transporte público en Tizayuca Hidalgo.
+  transporte público en Tizayuca Hidalgo. Este proyecto esta desarrollado con
+  Java y haciendo uso de la base de datos de Firebase.
 date: '2019-03-24'
 thumb_img_path: images/2.jpg
 thumb_img_alt: Fushimi Inari Shrine in Kyoto
