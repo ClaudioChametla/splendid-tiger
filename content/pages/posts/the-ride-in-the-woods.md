@@ -8,7 +8,7 @@ excerpt: >-
 date: '2018-01-23'
 thumb_img_path: /images/Captura de pantalla de 2021-12-07 14-31-26.png
 thumb_img_alt: A motorcycle in a forest
-content_img_path: images/3.jpg
+content_img_path: /images/Captura de pantalla de 2021-12-07 14-31-26.png
 content_img_alt: A motorcycle in a forest
 seo:
   title: The Ride In The Woods
