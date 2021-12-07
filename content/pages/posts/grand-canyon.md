@@ -5,7 +5,7 @@ excerpt: >-
   proyecto desarrollado en un lenguaje llamado Godot Script en el entorno de
   desarrollo Godot y haciendo el Port en Android Sutdio
 date: '2019-03-10'
-thumb_img_path: images/8.jpg
+thumb_img_path: /images/cheemsSpace.jpg
 thumb_img_alt: Hikers on the trail
 content_img_path: images/8.jpg
 content_img_alt: Hikers on the trail
