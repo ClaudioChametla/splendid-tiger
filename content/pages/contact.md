@@ -21,7 +21,7 @@ sections:
         is_required: true
       - input_type: select
         name: subject
-        label: Subjec
+        label: Asunto
         default_value: Please select
         options:
           - Cita presencial
