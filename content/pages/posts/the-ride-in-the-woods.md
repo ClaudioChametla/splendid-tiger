@@ -38,4 +38,4 @@ seo:
       relativeUrl: true
 layout: post
 ---
-Un videojuego acerca de Cheems donde este tiene que esquivar obstaculos. Es un proyecto desarrollado en un lenguaje llamado Godot Script en el entorno de desarrollo Godot y haciendo el Port en Android Sutdio
+Son diversos sitios Web Responsivos realizados con HTML, CSS y JAVASCRIPT en la plataforma web CodePen cuyos proyectos estan referenciados en la seccion de proyecto del sitio FreeCodeCamp.
