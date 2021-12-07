@@ -12,7 +12,7 @@ sections:
       - input_type: text
         name: name
         label: Nombre
-        default_value: Nomre
+        default_value: Ingresa tu nombre
         is_required: true
       - input_type: email
         name: email
