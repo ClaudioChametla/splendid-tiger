@@ -4,7 +4,7 @@ excerpt: >-
   Este es un portafolio desarrollado con el Framework de Next JS, haciendo el
   uso de la librería de React y también de Chakra UI.
 date: '2019-03-27'
-thumb_img_path: images/7.jpg
+thumb_img_path: /images/Captura de pantalla de 2021-12-07 14-30-19.png
 thumb_img_alt: Icelandic horses
 content_img_path: images/7.jpg
 content_img_alt: Icelandic horses
