@@ -10,11 +10,11 @@ sections:
   - section_id: about
     type: section_content
     title: ACERCA DE MI
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      Soy un ingeniero en computación, con experiencia en el desarrollo web,
+      especialmente en el desarrollo Front-End haciendo uso de Frameworks como
+      Bootstrap o Next JS. También soy programador de aplicaciones móviles
+      usando especialmente JAVA.
     actions:
       - label: Contact Me
         url: /contact
